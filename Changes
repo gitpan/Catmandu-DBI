@@ -1,0 +1,26 @@
+0.01 2014-09-26
+  - Catmandu-Store-DBI and Catmandu-Importer-DBI merged into one package Catmandu-DBI
+
+Revision history for Catmandu-Importer-DBI
+
+0.03 2014-03-26
+  - adding support for accessing the database handle
+
+0.02 2014-02-21
+  - deleted internal test
+
+0.01 2014-02-21
+  - initial version
+
+Revision history for Catmandu-Store-DBI
+
+0.041  2014-09-25
+  - add support for timeout and auto reconnect
+
+0.03  2014-03-07
+  - add support for postgres >= 9.1
+  - optimized slice implementation
+  - mysql auto reconnect
+
+0.02  2013-06-12
+  - initial release of Catmandu::Store::DBI as own package
