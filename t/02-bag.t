@@ -27,7 +27,7 @@ if(!$driver_found){
 
     my($fh,$file);
     lives_ok(sub {
-      ($fh,$file) = tempfile(UNLINK => 1);
+      ($fh,$file) = tempfile(UNLINK => 1,EXLOCK => 1);
     }, "database file created");
 
     my $bag;

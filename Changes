@@ -1,3 +1,6 @@
+0.011 2014-10-01
+  - Switched to Dist::Milla
+
 0.01 2014-09-26
   - Catmandu-Store-DBI and Catmandu-Importer-DBI merged into one package Catmandu-DBI
 
