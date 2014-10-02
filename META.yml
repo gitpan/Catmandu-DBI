@@ -32,6 +32,6 @@ resources:
   bugtracker: https://github.com/LibreCat/Catmandu-DBI/issues
   homepage: https://github.com/LibreCat/Catmandu-DBI
   repository: https://github.com/LibreCat/Catmandu-DBI.git
-version: 0.011
+version: 0.012
 x_contributors:
   - 'Nicolas Franck <nicolas.franck@ugent.be>'
